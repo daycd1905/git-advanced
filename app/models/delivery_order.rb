@@ -1,4 +1,6 @@
 class DeliveryOrder < ApplicationRecord
 
 
+  
+
 end
