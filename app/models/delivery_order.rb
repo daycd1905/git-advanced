@@ -1,1 +1,2 @@
-asad
+class DeliveryOrder < ApplicationRecord
+end
