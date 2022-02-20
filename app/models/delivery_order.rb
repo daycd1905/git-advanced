@@ -1,6 +1,2 @@
-class DeliveryOrder < ApplicationRecord
-
-
-
-  
+class DeliveryOrder < ApplicationRecord  
 end
